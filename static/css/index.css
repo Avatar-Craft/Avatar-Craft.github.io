@@ -152,7 +152,7 @@ body {
 }
 
 
-CSSResult Skip Results Iframe EDIT ON html,
+
 body {
   height: 100%;
   margin: 0px;
@@ -163,7 +163,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
+  width: 100%;
 }
 
 .slider {
